@@ -4,9 +4,10 @@
 **Will be updated as needed**
 
 Welcome to the WDI DTLA 41 class organization. Here is where
-we will store the information you need as students. This includes important
-links and readings, in-class examples, prompts and solutions for exercises,
-labs, homework and projects.
+we will store the information you need as students. The organization 
+contains various class repositories, which contain lectures, links and 
+readings, in-class examples, prompts and solutions for exercises,
+labs, homework and projects. 
 
 ### Contents
 
